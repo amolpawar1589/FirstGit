@@ -18,6 +18,7 @@ namespace TestCSharp
             Console.WriteLine(p.i);
             Console.WriteLine(p.s);
             Console.WriteLine(p.b);
+            Console.WriteLine(p.bs);
 
             Console.ReadLine();
         }

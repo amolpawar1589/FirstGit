@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Amol\\C#Test\\TestCSharp\\TestCSharp\\TestCSharp.csproj",
+      "projectUniqueName": "D:\\GitTutorial\\C#Test\\TestCSharp\\TestCSharp\\TestCSharp.csproj",
       "projectName": "TestCSharp",
-      "projectPath": "D:\\Amol\\C#Test\\TestCSharp\\TestCSharp\\TestCSharp.csproj",
+      "projectPath": "D:\\GitTutorial\\C#Test\\TestCSharp\\TestCSharp\\TestCSharp.csproj",
       "packagesPath": "C:\\Users\\apawar12\\.nuget\\packages\\",
-      "outputPath": "D:\\Amol\\C#Test\\TestCSharp\\TestCSharp\\obj\\",
+      "outputPath": "D:\\GitTutorial\\C#Test\\TestCSharp\\TestCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\apawar12\\AppData\\Roaming\\NuGet\\NuGet.Config",
